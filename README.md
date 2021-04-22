@@ -5,7 +5,7 @@
 - I can be reached at...<br>
   Email: jdcortez2268@gmail.com <br>
   LinkedIn: https://www.linkedin.com/in/dominick-cortez-8831131b6/ <br>
-  Twitter:  https://twitter.com/jdcortez2268
+  Twitter:  https://twitter.com/jdcortez2268 <br>
   Indeed: https://my.indeed.com/p/dominickc-375rq1e <br>
   
 
