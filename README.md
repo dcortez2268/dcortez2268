@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @dcortez2268
+- 👋 Hi, I’m Dominick Cortez.  
 - 👀 I’m interested in blockchain technology and other innovative projects.  
 - 🌱 I’m currently learning Solidity, and refreshing my full-stack development skills by building a portfolio that focuses on React, Angular, and .NET.  
 - 💞️ I’m looking to collaborate on open source blockchain projects once I develop my skills.  
