@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Dominick Cortez.  
 - 👀 I’m interested in blockchain technology and other innovative projects.  
-- 🌱 I’m currently refreshing my full stack development skills by building a portfolio that focuses on React+Django, and .Net.  
-- 💞️ I am actively looking for Jr. Developer positions as well as hope to develop my blockchain technology skillset so I can start contributing to projects.
+- 🌱 I’m currently refreshing my full stack development skills by building a portfolio that focuses on React+Node.js.
+- 💞️ I am actively building portfolio and in near future hope to contribute to web3 projects.  
 - I can be reached at...<br>
   Email: jdcortez2268@gmail.com <br>
   LinkedIn: https://www.linkedin.com/in/dominick-cortez-8831131b6/ <br>
