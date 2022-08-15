@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Dominick Cortez.  
-- 👀 I’m interested in blockchain technology and other innovative projects.  
-- 🌱 I’m currently refreshing my full stack development skills by building a portfolio that focuses on React+Node.js.
-- 💞️ I am actively building portfolio and in near future hope to contribute to web3 projects.  
+- 👀 I’m interested in blockchain technology, web development, and AWS-focused projects.  
+- 🌱 I’m currently learning AWS, Amazon Connect, and refreshing my full stack development skills by building a portfolio that focuses on MERN stack.
+- 💞️ I hope to contribute to web3 projects in the future or be a part of other innovate projects. 
 - I can be reached at...<br>
   Email: jdcortez2268@gmail.com <br>
   LinkedIn: https://www.linkedin.com/in/dominick-cortez-8831131b6/ <br>
