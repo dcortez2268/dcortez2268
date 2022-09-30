@@ -4,9 +4,9 @@
 - 💞️ I hope to contribute to web3 projects in the future or be a part of other innovative projects. 
 - I can be reached at...<br>
   Email: jdcortez2268@gmail.com <br>
-  LinkedIn: https://www.linkedin.com/in/dominick-cortez-8831131b6/ <br>
-  Twitter:  https://twitter.com/jdcortez2268 <br>
-  Indeed: https://my.indeed.com/p/dominickc-375rq1e <br>
+  LinkedIn: https://www.linkedin.com/in/dominick-cortez-883131b6/ <br>
+  Twitter:  https://twitter.com/jdcortez268 <br>
+  Indeed: https://my.indeed.com/p/dominickc-375q1e <br>
   
 
 <!---
